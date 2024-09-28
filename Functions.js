@@ -1,7 +1,10 @@
-// simple function 
-function myName(){
-    let name="Gowthami"
-    return name;
-}
+// // simple function 
+// function myName(){
+//     let name="Gowthami"
+//     return name;
+// }
 
-console.log(myName())
+// console.log(myName())
+
+
+// function as an expression
